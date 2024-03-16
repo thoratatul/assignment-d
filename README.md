@@ -96,3 +96,11 @@ It would be great for example if you'd write some unit test / simple frontend de
 When you have finished the assignment, zip your repo (make sure to include .git folder) and send us the zip.
 
 Thank you and good luck! 🙏
+
+## Postman Collection
+
+- https://api.postman.com/collections/33507509-24f88c8c-fcee-49fc-8b9a-606c20c92de3?access_key=PMAT-01HS3H5EBAYFEEC8YZG3CQ4CV6
+
+## Github Repo
+
+- https://github.com/thoratatul/d-assignment
