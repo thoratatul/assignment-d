@@ -97,10 +97,6 @@ When you have finished the assignment, zip your repo (make sure to include .git 
 
 Thank you and good luck! 🙏
 
-## Postman Collection
-
-- https://api.postman.com/collections/33507509-24f88c8c-fcee-49fc-8b9a-606c20c92de3?access_key=PMAT-01HS3H5EBAYFEEC8YZG3CQ4CV6
-
 ## Github Repo
 
 - https://github.com/thoratatul/d-assignment
